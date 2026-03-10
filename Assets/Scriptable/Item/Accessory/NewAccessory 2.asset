@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5edf0a9ca7b094daf6777010a6f4de, type: 3}
+  m_Name: NewAccessory 2
+  m_EditorClassIdentifier: Assembly-CSharp::AccessoryDefinition
+  Id: acc03
+  DisplayName: accessory test 03
+  Description: test
+  Icon: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  Type: 2
+  Stackable: 0
+  MaxStack: 1
+  Slot: 3
+  addDamage: 3
+  addMaxMagazin: 5
+  multPressureLevel: 3
+  addReloadTime: 2
+  multErgonomic: 10
